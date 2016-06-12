@@ -1,0 +1,3 @@
+C:\Users\Cesar\Programs\CardGameGuiBasic\Assign6withGUI\bin\Debug\Assign6withGUI.exe.config
+C:\Users\Cesar\Programs\CardGameGuiBasic\Assign6withGUI\obj\Debug\Assign6withGUI.exe
+C:\Users\Cesar\Programs\CardGameGuiBasic\Assign6withGUI\obj\Debug\Assign6withGUI.pdb

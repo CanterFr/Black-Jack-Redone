@@ -1,0 +1,39 @@
+C:\Users\Bryan\Documents\GitHub\Assign6withGUI\Assign6withGUI\bin\Debug\Assign6withGUI.exe.config
+C:\Users\Bryan\Documents\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assignment6CSharp.mainForm.resources
+C:\Users\Bryan\Documents\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.Properties.Resources.resources
+C:\Users\Bryan\Documents\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.csproj.GenerateResource.Cache
+C:\Users\Bryan\Documents\GitHub\Assign6withGUI\Assign6withGUI\bin\Debug\Assign6withGUI.exe
+C:\Users\Bryan\Documents\GitHub\Assign6withGUI\Assign6withGUI\bin\Debug\Assign6withGUI.pdb
+C:\Users\Bryan\Documents\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assignment6CSharp.showHandsForm.resources
+C:\Users\Bryan\Documents\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.exe
+C:\Users\Bryan\Documents\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.pdb
+C:\Users\Bryan\Documents\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.ODeck.resources
+C:\Users\Bryan\Documents\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.shuffledDeck.resources
+G:\Old Storage Drive\from docs\GitHub\Assign6withGUI\Assign6withGUI\bin\Debug\Assign6withGUI.exe.config
+G:\Old Storage Drive\from docs\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.exe
+G:\Old Storage Drive\from docs\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.pdb
+G:\Old Storage Drive\from docs\GitHub\Assign6withGUI\Assign6withGUI\bin\Debug\Assign6withGUI.exe
+G:\Old Storage Drive\from docs\GitHub\Assign6withGUI\Assign6withGUI\bin\Debug\Assign6withGUI.pdb
+G:\Old Storage Drive\from docs\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.csprojResolveAssemblyReference.cache
+G:\Old Storage Drive\from docs\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assignment6CSharp.mainForm.resources
+G:\Old Storage Drive\from docs\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.oDeck.resources
+G:\Old Storage Drive\from docs\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.Properties.Resources.resources
+G:\Old Storage Drive\from docs\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assignment6CSharp.showHandsForm.resources
+G:\Old Storage Drive\from docs\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.shuffledDeck.resources
+G:\Old Storage Drive\from docs\GitHub\Assign6withGUI\Assign6withGUI\obj\Debug\Assign6withGUI.csproj.GenerateResource.Cache
+C:\Users\Cesar\Desktop\CardGameGuiBasic\Assign6withGUI\bin\Debug\Assign6withGUI.exe.config
+C:\Users\Cesar\Desktop\CardGameGuiBasic\Assign6withGUI\obj\Debug\Assign6withGUI.exe
+C:\Users\Cesar\Desktop\CardGameGuiBasic\Assign6withGUI\obj\Debug\Assign6withGUI.pdb
+C:\Users\Cesar\Desktop\CardGameGuiBasic\Assign6withGUI\bin\Debug\Assign6withGUI.exe
+C:\Users\Cesar\Desktop\CardGameGuiBasic\Assign6withGUI\bin\Debug\Assign6withGUI.pdb
+C:\Users\Cesar\Desktop\CardGameGuiBasic\Assign6withGUI\obj\Debug\Assign6withGUI.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\CardGameGuiBasic\Assign6withGUI\obj\Debug\Assignment6CSharp.mainForm.resources
+C:\Users\Cesar\Desktop\CardGameGuiBasic\Assign6withGUI\obj\Debug\Assign6withGUI.Properties.Resources.resources
+C:\Users\Cesar\Desktop\CardGameGuiBasic\Assign6withGUI\obj\Debug\Assign6withGUI.csproj.GenerateResource.Cache
+C:\Users\Cesar\Desktop\Programs\CardGameGuiBasic\Assign6withGUI\bin\Debug\Assign6withGUI.exe.config
+C:\Users\Cesar\Desktop\Programs\CardGameGuiBasic\Assign6withGUI\obj\Debug\Assign6withGUI.exe
+C:\Users\Cesar\Desktop\Programs\CardGameGuiBasic\Assign6withGUI\obj\Debug\Assign6withGUI.pdb
+C:\Users\Cesar\Programs\CardGameGuiBasic\Assign6withGUI\bin\Debug\Assign6withGUI.exe.config
+C:\Users\Cesar\Programs\CardGameGuiBasic\Assign6withGUI\obj\Debug\Assign6withGUI.exe
+C:\Users\Cesar\Programs\CardGameGuiBasic\Assign6withGUI\obj\Debug\Assign6withGUI.pdb

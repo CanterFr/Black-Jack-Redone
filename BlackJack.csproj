@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1C87D06D-FA1B-4027-8176-F9CBA1F19DBD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Assign6withGUI</RootNamespace>
+    <AssemblyName>Assign6withGUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\C2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\C3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\C4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\C5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\C6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\C7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\C8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\C9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\C10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\CA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\cardback.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\CJ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\CK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\CQ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\D2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\D3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\D4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\D5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\D6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\D7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\D8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\D9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\D10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\DA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\DJ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\DK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\DQ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\H2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\H3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\H4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\H5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\H6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\H7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\H8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\H9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\H10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\HA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\HJ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\HK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\HQ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\S2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\S3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\S4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\S5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\S6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\S7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\S8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\S9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\S10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\SA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\SJ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\SK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cardImages\SQ.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
